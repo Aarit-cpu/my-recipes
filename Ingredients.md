@@ -1,0 +1,1 @@
+sugar,flour,milk,cream,butter,eggs
